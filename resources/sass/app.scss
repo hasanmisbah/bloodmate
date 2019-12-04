@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+
+.blue {
+    background-color: $blue;
+    color: #ffffff;
+    border-radius: 1px 1px 1px rgba(0, 0, 0, .15);
+}
